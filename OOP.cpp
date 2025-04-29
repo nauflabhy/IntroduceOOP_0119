@@ -16,5 +16,9 @@ void printData () {
 };
 
 int main () {
+    mahasiswa mhs;
+    mhs.nim = 119;
+    mhs.nama = "Naufal";
+    mhs.nilai = 80.5;
 
 }
