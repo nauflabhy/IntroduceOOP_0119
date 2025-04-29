@@ -8,6 +8,10 @@ public:
     float nilai;
 };
 
+void printData () {
+    
+}
+
 int main () {
 
 }
